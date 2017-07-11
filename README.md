@@ -1,2 +1,2 @@
-# labrosse.github.io
+# Stéphane Labrosse
 Stephane Labrosse's web page
