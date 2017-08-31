@@ -12,4 +12,3 @@ permalink: /publications/
 [The same list with abstracts](/publications_abstracts)
 
 {% include mybib.html %}
-http://github.com/https://github.com/labrosse
