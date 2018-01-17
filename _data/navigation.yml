@@ -1,5 +1,7 @@
 # main links
 main:
+  - title : "MaCoMaOc project"
+    url: /MaCoMaOc/
   - title : "CV"
     url: /cv/
   - title : "Publications"
