@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Matthieu Laneuville's paper in press in Phys. Earth Planet. Inter."
+title: "Matthieu Laneuville's paper published in Phys. Earth Planet. Inter."
 header:
   image: /assets/images/EurekaSE06-07.jpg
   image_description: "Eureka valley in California"
