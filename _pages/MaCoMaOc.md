@@ -42,7 +42,8 @@ In Zürich
 ## Model development
 * A pseudo-spectral Chebyshev collocation code has been written to solve the linear stability problem of convection with phase change boundary
 conditions at either or both horizontal boundaries, in cartesian and spherical shell geometry. The weakly non-linear analysis is also implemented
-for the 2D cartesian geometry. Results for the cartesian geometry are presented in a paper in revision for the Journal of Fluid Mechanics (Labrosse et al, 2018).
+for the 2D cartesian geometry. Results for the cartesian geometry are
+presented in a paper accepted for publication in the Journal of Fluid Mechanics (Labrosse et al, 2018).
 Spherical shell results have been presented in several conferences and two papers are in preparation (lead author: A. Morison).
 * In this project, we use the code StagYY (Tackley 2008) as main tool to model mantle convection. This requires some modifications:
   - we implemented the phase change boundary conditions.
