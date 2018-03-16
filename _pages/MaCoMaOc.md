@@ -53,10 +53,10 @@ Spherical shell results have been presented in several conferences and two paper
 ## Publications
 * St&eacute;phane Labrosse, Adrien Morison, Renaud Deguen, and Thierry
   Alboussi&egrave;re.
- Rayleigh-B&eacute;nard convection with a phase change at either or both
+ Rayleigh-B&eacute;nard convection in a creeping solid with a phase change at either or both
   horizontal boundaries.
- <em>J. Fluid Mech.</em>, 2017.
- Submitted.
+Accepted for publication in <em>J. Fluid Mech.</em>, 2018. See the
+  submitted version:
 [&nbsp;<a href="https://arxiv.org/abs/1708.00791">http</a>&nbsp;| 
 <a href="/publications_abstracts#Labrosse_etal2017">Abstract</a>&nbsp;]
 
