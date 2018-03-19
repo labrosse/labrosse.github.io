@@ -29,7 +29,7 @@ In Lyon:
 * Stéphane Labrosse (PI)
 * [Renaud Deguen](https://scholar.google.com/citations?user=qGu2Ak4AAAAJ&hl=fr)
 * [Thierry Alboussière](http://perso.ens-lyon.fr/thierry.alboussiere/homepage_french.html)
-* Adrien Morison (PhD student)
+* [Adrien Morison](http://adrienmorison.com/) (PhD student)
 * [Roberto Agrusta](https://scholar.google.com/citations?user=WM2LMxEAAAAJ&hl=it) (Post-doc)
 
 In Zürich
