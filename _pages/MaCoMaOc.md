@@ -32,7 +32,7 @@ In Lyon:
 * [Adrien Morison](http://adrienmorison.com/) (PhD student)
 * [Roberto Agrusta](https://scholar.google.com/citations?user=WM2LMxEAAAAJ&hl=it) (Post-doc)
 
-In Zürich
+In Zürich:
 * [Paul Tackley](http://jupiter2.ethz.ch/~pjt/) (PI)
 * [Daniela Bolrão](https://www.researchgate.net/profile/Daniela_Bolrao) (PhD student)
 * [Maxim Ballmer](http://jupiter.ethz.ch/~ballmerm/)
