@@ -59,7 +59,7 @@ mantle crystallizing within a magma ocean.
   basal magma ocean (Laneuville et al, 2018).
 
 ## Publications
-{% include conf_MaCoMaOc.html %}
+{% include MaCoMaOc.html %}
 
 ## Presentations in conferences and workshops
 {% include conf_MaCoMaOc.html %}
