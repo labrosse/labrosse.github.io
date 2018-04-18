@@ -28,15 +28,15 @@ evolution of planets through application of boundary conditions originally devel
 In Lyon:
 * Stéphane Labrosse (PI)
 * [Renaud Deguen](https://scholar.google.com/citations?user=qGu2Ak4AAAAJ&hl=fr)
-* [Thierry Alboussière](http://perso.ens-lyon.fr/thierry.alboussiere/homepage_french.html)
+* [Thierry Alboussière](http://perso.ens-lyon.fr/thierry.alboussiere)
 * [Adrien Morison](http://adrienmorison.com/) (PhD student)
 * [Roberto Agrusta](https://scholar.google.com/citations?user=WM2LMxEAAAAJ&hl=it) (Post-doc)
 
 In Zürich
 * [Paul Tackley](http://jupiter2.ethz.ch/~pjt/) (PI)
-* Daniela Bolrão (PhD student)
+* [Daniela Bolrão](https://www.researchgate.net/profile/Daniela_Bolrao) (PhD student)
 * [Maxim Ballmer](http://jupiter.ethz.ch/~ballmerm/)
-* [Antoine Rozel](http://jupiter.ethz.ch/~arozel/index.html)
+* [Antoine Rozel](http://jupiter.ethz.ch/~arozel)
 
 # Achievements
 ## Model development
@@ -44,22 +44,22 @@ In Zürich
 conditions at either or both horizontal boundaries, in cartesian and spherical shell geometry. The weakly non-linear analysis is also implemented
 for the 2D cartesian geometry. Results for the cartesian geometry are
 presented in a paper accepted for publication in the Journal of Fluid Mechanics (Labrosse et al, 2018).
-Spherical shell results have been presented in several conferences and two papers are in preparation (lead author: A. Morison).
+Spherical shell results have been presented in several conferences and
+two papers are in preparation (lead author: A. Morison), one on the
+onset of thermal convection and one on the initial overturn of the
+mantle crystallizing within a magma ocean.
 * In this project, we use the code StagYY (Tackley 2008) as main tool to model mantle convection. This requires some modifications:
   - we implemented the phase change boundary conditions.
   - we implemented the variation of composition by fractional crystallisation at regions of ingoing flow and treatment of compositional aspects
   in the solid using tracers.
-  - we implemented the moving boundaries owing to the net motion during secular evolution.
+  - we implemented the moving boundaries owing to the net motion
+  during secular evolution.
+* Aside from the main frame but still part of this project, we
+  published a paper on the evolution of an initially stably stratified
+  basal magma ocean (Laneuville et al, 2018).
 
 ## Publications
-* St&eacute;phane Labrosse, Adrien Morison, Renaud Deguen, and Thierry
-  Alboussi&egrave;re.
- Rayleigh-B&eacute;nard convection in a creeping solid with a phase change at either or both
-  horizontal boundaries.
-Accepted for publication in <em>J. Fluid Mech.</em>, 2018. See the
-  submitted version:
-[&nbsp;<a href="https://arxiv.org/abs/1708.00791">http</a>&nbsp;| 
-<a href="/publications_abstracts#Labrosse_etal2017">Abstract</a>&nbsp;]
+{% include conf_MaCoMaOc.html %}
 
 ## Presentations in conferences and workshops
 {% include conf_MaCoMaOc.html %}
