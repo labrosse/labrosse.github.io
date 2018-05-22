@@ -1,1 +1,6 @@
 _site/
+.sass-cache/
+.DS_Store
+Gemfile.lock
+_include/.DS_Store
+LICENSE.txt
