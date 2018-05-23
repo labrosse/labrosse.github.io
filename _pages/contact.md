@@ -13,7 +13,7 @@ stephane.labrosse [at] ens-lyon.fr
 ## Telephone
 
 * Office: +33 4 72 72 85 15. 
-* Laboratory secretary, Marie-Jeanne Barrier (if you can get me): +33 4 72 72 85 14
+* Laboratory secretary, Marie-Jeanne Barrier (if you can't get me): +33 4 72 72 85 14
 * Departement secretary, Emmanuelle Lousson  (if... ): +33 4 72 72 84 99
 
 ## Postal address
