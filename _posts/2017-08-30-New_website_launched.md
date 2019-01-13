@@ -13,8 +13,12 @@ which seems like a good way to go ;-).
 The bibliography is converted automatically to html from bib
 using [bibtex2html](https://www.lri.fr/~filliatr/bibtex2html/) with:
 ```
-bibtex2html -d -r --revkeys --both --html-entities --nobibsource --nodoc mybib.bib
+bibtex2html -d -r --revkeys --both --html-entities --nobibsource --nodoc  -s myplain mybib.bib
 ```
+
+This uses ```myplain.bst``` as style file for bibtex, a slight
+modification of the standard ```plain.bst``` to have all names as
+```Lastname, F.```. You can get the file [here](/assets/files/myplain.bst).
 
 I am not sure I will keep up with the blogging thing but at least to
 make static pages, this is simple enough! Nothing too fancy here but
