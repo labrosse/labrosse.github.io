@@ -20,6 +20,11 @@ This uses ```myplain.bst``` as style file for bibtex, a slight
 modification of the standard ```plain.bst``` to have all names as
 ```Lastname, F.```. You can get the file [here](/assets/files/myplain.bst).
 
+In order for the abstracts link to work, I modify the html file as
+```
+sed -i -e "s/mybib_abstracts.html/\/publications_abstracts\//g" mybib.html
+```
+
 I am not sure I will keep up with the blogging thing but at least to
 make static pages, this is simple enough! Nothing too fancy here but
 you should find the minimum info.
