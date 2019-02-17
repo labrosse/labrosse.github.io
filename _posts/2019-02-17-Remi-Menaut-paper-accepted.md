@@ -6,7 +6,7 @@ header:
   image_description: "Convection in a centrifuge"
   caption: "Left: experimental setup. Middle: isentropic temperature gradient in the cell. Right: Nusselt vs. Rayleigh number"
 
-date: 2019-02-18
+date: 2019-02-17
 ---
 
 
