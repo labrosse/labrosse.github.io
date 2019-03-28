@@ -43,11 +43,18 @@ In Zürich:
 * A pseudo-spectral Chebyshev collocation code has been written to solve the linear stability problem of convection with phase change boundary
 conditions at either or both horizontal boundaries, in cartesian and spherical shell geometry. The weakly non-linear analysis is also implemented
 for the 2D cartesian geometry. Results for the cartesian geometry are
-presented in a paper accepted for publication in the Journal of Fluid Mechanics (Labrosse et al, 2018).
-Spherical shell results have been presented in several conferences and
-two papers are in preparation (lead author: A. Morison), one on the
-onset of thermal convection and one on the initial overturn of the
-mantle crystallizing within a magma ocean.
+presented in a paper published in the *Journal of Fluid Mechanics*
+(Labrosse et al, 2018).
+A paper has been accepted for publication in *Earth and Planetary
+Science Letters* (Morison et al, 2019) in which we present linear
+stability calculations for the timescale of the mantle overturn during
+its crystallisation in a magma ocean. 
+Another publication about the linear stability and non-linear
+numerical simulation in spherical shells is in preparation (lead
+author: Adrien Morison).
+Direct numerical simulations of convection in a plane layer have also
+been performed and a publication is being prepared (lead author:
+Roberto Agrusta).
 * In this project, we use the code StagYY (Tackley 2008) as main tool to model mantle convection. This requires some modifications:
   - we implemented the phase change boundary conditions.
   - we implemented the variation of composition by fractional crystallisation at regions of ingoing flow and treatment of compositional aspects
