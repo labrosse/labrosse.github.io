@@ -45,7 +45,7 @@ conditions at either or both horizontal boundaries, in cartesian and spherical s
 for the 2D cartesian geometry. Results for the cartesian geometry are
 presented in a paper published in the *Journal of Fluid Mechanics*
 (Labrosse et al, 2018).
-A paper has been accepted for publication in *Earth and Planetary
+A paper has been published in *Earth and Planetary
 Science Letters* (Morison et al, 2019) in which we present linear
 stability calculations for the timescale of the mantle overturn during
 its crystallisation in a magma ocean. 
@@ -64,6 +64,12 @@ Roberto Agrusta).
 * Aside from the main frame but still part of this project, we
   published a paper on the evolution of an initially stably stratified
   basal magma ocean (Laneuville et al, 2018).
+* Also part of the projet, the paper in review for *Frontiers in Earth
+  Sciences* (Bouffard et al, 2019) presents the possible compositional
+  stratification of the outer core by accumulation of light elements
+  released from the inner core. This work uses the code developped by
+  Mathieu Bouffard which also has implications for the dynamics of
+  magma oceans.
 
 ## Publications
 {% include MaCoMaOc.html %}
