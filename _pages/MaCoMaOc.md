@@ -53,8 +53,8 @@ Another publication about the linear stability and non-linear
 numerical simulation in spherical shells is in preparation (lead
 author: Adrien Morison).
 Direct numerical simulations of convection in a plane layer have also
-been performed and a publication is being prepared (lead author:
-Roberto Agrusta).
+been performed and the results have been published in the *Geophysical
+Journal International* (Agrusta et al, 2019).
 * In this project, we use the code StagYY (Tackley 2008) as main tool to model mantle convection. This requires some modifications:
   - we implemented the phase change boundary conditions.
   - we implemented the variation of composition by fractional crystallisation at regions of ingoing flow and treatment of compositional aspects
