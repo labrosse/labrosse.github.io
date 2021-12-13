@@ -4,7 +4,7 @@ title: Softwares
 permalink: /softwares/
 ---
 
-I contribute to the development of several softwares for my research, most being
+I use, contribute to the development of, or design several softwares for my research, most being
 accessible on [github](https://github.com/).
 
 * StagYY: The convection code StagYY is the property of [Paul
