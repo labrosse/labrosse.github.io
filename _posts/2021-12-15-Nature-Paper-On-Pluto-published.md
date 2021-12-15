@@ -10,7 +10,7 @@ header:
   and two snapshots of the temperature below the surface of convection
   model driven by surface cooling."
 
-date: 2021-12-16
+date: 2021-12-15
 ---
 
 If you have ever been cold when getting out of water on a warm sunny day, latent heat is to
@@ -56,4 +56,4 @@ oceans rather than that of Jupiter’s and Saturn’s icy moons: it is powered b
 climate-powered dynamics of a solid layer could also occur at the surface of other planetary
 bodies, such as Triton (one of Neptune’s moons), or Eris and Makemake (from Kuiper’s Belt).
 
-Check out the paper on the [journal's webpage](https://www.nature.com/articles/s41586-021-04095-w).
+Check out the paper on the [journal's webpage](https://rdcu.be/cDhK6).
