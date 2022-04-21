@@ -18,7 +18,7 @@ fully compressible equations are compared to classical approximations
 (anelastic, anelastic liquid, Boussinesq). The numerical solutions are
 obtained using the [dedalus software](https://dedalus-project.org/)
 and the scripts are available on
-(github)[https://github.com/RayleighBenardModels]. The papers are 
+[github](https://github.com/RayleighBenardModels). The papers are 
 
 * Alboussière, T., Curbelo, J., Dubuffet, F., Labrosse, S., & Ricard, 
   Y. (2022). A playground for compressible natural convection with a
