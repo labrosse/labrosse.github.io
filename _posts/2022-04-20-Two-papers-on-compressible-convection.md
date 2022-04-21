@@ -20,11 +20,12 @@ obtained using the [dedalus software](https://dedalus-project.org/)
 and the scripts are available on
 (github)[https://github.com/RayleighBenardModels]. The papers are 
 
-*Alboussière, T., Curbelo, J., Dubuffet, F., Labrosse, S., & Ricard,
-Y. (2022). A playground for compressible natural convection with a
-nearly uniform density. Journal of Fluid Mechanics, 940,
-1–41. [doi: 10.1017/jfm.2022.216](https://doi.org/10.1017/jfm.2022.216)
+* Alboussière, T., Curbelo, J., Dubuffet, F., Labrosse, S., & Ricard, 
+  Y. (2022). A playground for compressible natural convection with a
+  nearly uniform density. Journal of Fluid Mechanics, 940,
+  1–41. [doi: 10.1017/jfm.2022.216](https://doi.org/10.1017/jfm.2022.216)
 * Ricard, Y., Alboussière, T., Labrosse, S., Curbelo, J., & Dubuffet,
   F. (2022). Fully compressible convection for planetary
   mantles. Geophysical Journal International, 230(2),
-  932–956. [doi: 10.1093/gji/ggac102](https://doi.org/10.1093/gji/ggac102)
+  932–956. [doi:
+  10.1093/gji/ggac102](https://doi.org/10.1093/gji/ggac102)
