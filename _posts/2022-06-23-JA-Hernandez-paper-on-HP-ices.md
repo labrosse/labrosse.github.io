@@ -11,10 +11,10 @@ that up to 2.5 wt% NaCl can be dissolved in dense water ice at interior condit
 and mini-Neptunes. Using scaling laws for convection in such layers, we show that significant transfer of salts
 can occur between the rocky cores and the overlying ocean, which should help for their habitability.
     
-    Full citation: 
-    Hernandez, J.-A., Caracas, R., & Labrosse, S. (2022). Stability of high-temperature salty ice suggests electrolyte
-    permeability in water-rich exoplanet icy mantles. Nature
-    Communications, 13(1), 3303.
+Full citation: 
+    - Hernandez, J.-A., Caracas, R., & Labrosse, S. (2022). Stability
+      of high-temperature salty ice suggests electrolyte permeability
+      in water-rich exoplanet icy mantles. Nature Communications, 13(1), 3303.
 
 Available on the
 [journals website](https://doi.org/10.1038/s41467-022-30796-5)
