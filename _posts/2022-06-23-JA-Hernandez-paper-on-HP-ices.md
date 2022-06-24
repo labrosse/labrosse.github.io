@@ -12,9 +12,9 @@ and mini-Neptunes. Using scaling laws for convection in such layers, we show tha
 can occur between the rocky cores and the overlying ocean, which should help for their habitability.
     
 Full citation: 
-    - Hernandez, J.-A., Caracas, R., & Labrosse, S. (2022). Stability
-      of high-temperature salty ice suggests electrolyte permeability
-      in water-rich exoplanet icy mantles. Nature Communications, 13(1), 3303.
+> Hernandez, J.-A., Caracas, R., & Labrosse, S. (2022). Stability
+> of high-temperature salty ice suggests electrolyte permeability
+> in water-rich exoplanet icy mantles. Nature Communications, 13(1), 3303.
 
 Available on the
 [journals website](https://doi.org/10.1038/s41467-022-30796-5)
