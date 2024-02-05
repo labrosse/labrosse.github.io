@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "A paper on convection in HP ice layers with implications for
+title: "Two papers on convection in HP ice layers with implications for
 habitability of large icy moons"
 header:
   image: /assets/images/Lebec_etal2023-24.png
@@ -12,20 +12,20 @@ header:
 
 date: 2024-02-04
 ---
-With Laëtitia Lebec, as part of her PhD the PhD she defende last
-september, published two papers in Icarus on convection in high
+With Laëtitia Lebec, as part of her PhD the PhD she defended last
+september, we published two papers in Icarus on convection in high
 pressure (HP) ice layers in large icy satellites and water worlds. 
 
 The [first paper](https://www.sciencedirect.com/science/article/abs/pii/S0019103523000714?via%3Dihub)
 considers the effect of the solid-liquid phase change on convection in
 the solid and proposes scaling relationships for the temperature
-difference across the layer as function of the Rayleigh
+difference across the layer and the velocity at the upper boundary as function of the Rayleigh
 number. Applications to Titan or Ganymede show that convection in
 these layers is quite efficient and that the ice is expected to melt,
 at least partially, in contact with the rocky core.
 
 The [second paper](https://www.sciencedirect.com/science/article/pii/S0019103524000241?via%3Dihub)
-adds the effects of salts entering the ice layers from the underlying
+adds the effects of salts entering the ice layer from the underlying
 rocky core. The ice-salt mixture is expected to be denser than pure
 water ice which could impede convection. This effect is quantified
 using a buoyancy number which compares the negative buoyancy of salts
@@ -46,6 +46,3 @@ Full citations:
 > Tackley, P. J. Effects of salts on the exchanges through
 > high-pressure ice layers of large ocean worlds. Icarus,
 > 412:115966, 2024.
-
-Available on the
-[journals website](https://doi.org/10.1038/s41467-022-30796-5)
