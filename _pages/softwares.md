@@ -22,7 +22,7 @@ accessible on [github](https://github.com/).
   package originally written for matlab by Weidemann and Reddy. It
   calculates spectral collocation differentiation matrices.
 * [StabLinRB](https://github.com/labrosse/StabLinRB) uses
-  [dmsuite](https://github.com/labrosse/dmsuite) to solve the linear
+  [dmsuite](https://github.com/amorison/stablinrb) to solve the linear
   stability of Rayleigh-Bénard convection for various boundary
   conditions. 
 
