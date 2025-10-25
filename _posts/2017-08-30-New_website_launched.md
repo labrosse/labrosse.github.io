@@ -4,7 +4,7 @@ title: "Just started a new website..."
 date: 2017-08-30
 ---
 
-I got a bit fed up with my old website using a CMS, which a bit
+I got a bit fed up with my old website using a CMS, which is a bit
 annoying to maintain. I thought I would give a try to
 [Jekyll](http://jekyllrb.com), use Markdown for all pages and
 posts. I used the
