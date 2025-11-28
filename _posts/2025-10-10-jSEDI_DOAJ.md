@@ -2,7 +2,7 @@
 layout: single
 title: "jSEDI: a new diamond open access journal on deep planetary interiors"
 header:
-  image: /assets/images/jSEDI_first3papers.jpg
+  image: /assets/images/jSEDI_first3papers.png
   image_description: "Images from the first three papers published in jSEDI"
 
 date: 2025-10-10
@@ -31,7 +31,7 @@ LaTeX version using our template.
 
 The journal website is hosted by
 [https://www.episciences.org/](Episciences) and published by [ENS
-Éditions](https://catalogue-editions.ens-lyon.fr/). It is operated by
+Editions](https://catalogue-editions.ens-lyon.fr/). It is operated by
 a team of editors working voluntarily. For any question regarding the
 journal, do not hesitate to contact me or any other editor.
 
